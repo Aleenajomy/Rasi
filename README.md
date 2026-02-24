@@ -1,74 +1,27 @@
-<!-- ===================================================== -->
-<!--                ALEENA JOMY | FULL STACK DEV         -->
-<!-- ===================================================== -->
-
-<h1 align="center">Hi 👋, I'm Aleena Jomy</h1>
-<h3 align="center">Full Stack Developer | Django REST | React | Secure Systems Builder</h3>
+<!-- ================= HEADER BANNER ================= -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Secure%20Web%20Applications-0A192F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Backend-Django%20%7C%20DRF-0A192F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Frontend-React-0A192F?style=for-the-badge"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:1F4068&height=200&section=header&text=Aleena%20Jomy&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
+
+<h2 align="center">Namaste 🙏 I'm Aleena Jomy</h2>
+<h3 align="center">Full Stack Developer | Django REST | Secure Systems Builder</h3>
 
 ---
 
 ## 🧠 About Me
 
 - 🎓 BTech Computer Science Graduate  
-- 🔐 Passionate about Secure Web Application Development  
-- 🚀 Backend-focused developer building scalable REST APIs  
-- 🧪 Interested in QA, System Design & Backend Engineering  
-- 🌱 Currently improving: System Design & Distributed Systems  
+- 🔐 Focused on Secure Web Application Development  
+- 🚀 Backend-first developer specializing in Django REST Framework  
+- 🧪 Interested in QA Engineering & System Design  
+- 🌱 Currently learning: Advanced System Design & Performance Optimization  
 
-I build systems that are secure, scalable, and production-ready.
-
----
-
-## ⚙️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,js,postgres,mongodb,docker,git,linux,html,css" />
-</p>
+I build secure, scalable, and production-ready backend systems.
 
 ---
 
-## 🔐 Featured Projects
-
-### 🔒 Secure User Authentication System
-- JWT Authentication
-- Password Hashing (bcrypt)
-- CSRF & XSS Protection
-- Role-Based Access Control
-- RESTful API Architecture
-
-> Built with Django REST Framework & PostgreSQL
-
----
-
-### 🧠 Job Portal Platform (Django REST API)
-
-- Custom User Roles (Employee, Employer, Company)
-- OTP Email Verification
-- JWT Authentication
-- Role-Based Permissions
-- Structured JSON-based skill system
-
-> Backend-first architecture with clean modular apps
-
----
-
-### 🎣 Phishing Awareness Simulation Project
-
-- Simulated phishing login system (educational purpose)
-- Demonstrates security vulnerabilities
-- Awareness-focused implementation
-
-> Built to educate users about cyber threats
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -78,7 +31,7 @@ I build systems that are secure, scalable, and production-ready.
 
 ---
 
-## 🧬 Top Languages
+## 🧬 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -86,15 +39,49 @@ I build systems that are secure, scalable, and production-ready.
 
 ---
 
+## 🛠️ Languages & Tools I Work With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,js,html,css,postgres,mongodb,docker,git,linux,postman,vscode" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### 🔐 Secure User Authentication System
+- JWT Authentication
+- Password Hashing (bcrypt)
+- CSRF & XSS Protection
+- Role-Based Access Control
+- Production-ready REST API design
+
+---
+
+### 🧠 Job Portal Platform (Django REST API)
+- Custom User Roles (Employee, Employer, Company)
+- OTP Email Verification
+- Modular App Architecture
+- Structured JSON-based Skill System
+
+---
+
+### 🎣 Phishing Awareness Simulation
+- Educational phishing simulation project
+- Demonstrates login vulnerability concepts
+- Built for cybersecurity awareness
+
+---
+
 ## 🎯 Current Focus
 
 ```yaml
 learning:
-  - Advanced System Design
+  - Distributed Systems
   - Backend Performance Optimization
   - API Security Best Practices
 
 building:
-  - Production-grade APIs
   - Resume Builder Platform
   - Secure Authentication Systems
+  - Production-grade APIs
